@@ -27,7 +27,7 @@ body {
 
 .container .tenor-gif-embed {
     display: flex;
-    max-width: 200px;
+    max-width: 300px;
 }
 .container .btn {
     display: flex;
